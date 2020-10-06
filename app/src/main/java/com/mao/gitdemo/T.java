@@ -1,4 +1,4 @@
 package com.mao.gitdemo;
 
-public class Test {
+public class T {
 }
